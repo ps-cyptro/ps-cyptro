@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**ps-cyptro/ps-cyptro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ps-cyptro/ps-cyptro** is a ✨ _special_ ✨ repository because its `op net 20` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
